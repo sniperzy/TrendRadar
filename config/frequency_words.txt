@@ -9,14 +9,7 @@ DeepSeek
 HarmonyOS
 任正非
 
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
+insta360
 
 智元
 灵犀
@@ -25,13 +18,6 @@ DJI
 
 黑神话
 冯骥
-
-
-哪吒
-饺子
-杨宇
-!车
-!餐
 
 三体
 流浪地球
@@ -69,16 +55,9 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
-
-自动驾驶
 
 机器人
 
@@ -107,5 +86,4 @@ ai
 航空
 
 通信
-通讯
 移动
