@@ -1,20 +1,9 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
 华为
 鸿蒙
 HarmonyOS
 任正非
 
 insta360
-
-智元
-灵犀
-稚晖君
-彭志辉
 
 黑神话
 冯骥
@@ -41,12 +30,11 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD
+steam
 
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
@@ -61,26 +49,11 @@ ai
 
 机器人
 
-国产
-中国
-
-美国
 日本
-韩国
 台湾
-
-芯片
-光刻机
 
 科技
 
-核能
-
-新质生产力
-
-月球
-登月
-火星
 宇宙
 飞船
 航空
