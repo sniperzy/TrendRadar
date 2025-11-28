@@ -3682,9 +3682,9 @@ def strip_markdown(text: str) -> str:
     text = re.sub(r'~~(.+?)~~', r'\1', text)
 
     # 转换链接 [text](url) -> text url（保留 URL）
-    text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'\1 \2', text)
+    # text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'\1 \2', text)
     # 如果不需要保留 URL，可以使用下面这行（只保留标题文本）：
-    # text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
+    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
 
     # 去除图片 ![alt](url) -> alt
     text = re.sub(r'!\[(.+?)\]\(.+?\)', r'\1', text)
