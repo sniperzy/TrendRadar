@@ -43,13 +43,6 @@ sora
 claude
 Anthropic
 
-ai
-!gai
-人工智能
-
-机器人
-
-日本
 台湾
 
 科技
